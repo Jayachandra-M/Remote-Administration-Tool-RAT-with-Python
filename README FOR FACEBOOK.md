@@ -1,5 +1,5 @@
 SETUP FOR FACEBOOK BRUTEFORCE CRACKER
-
-cd facebook-cracker
-chmod +x facebook.py
-python facebook.py
+cd Downloads
+cd Ethical-Hacking-Tools-Kits
+chmod +x FacebookCracker.py
+python FacebookCracker.py
