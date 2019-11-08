@@ -1,5 +1,7 @@
 INSTAGRAM BRUTEFORCE CRACKING
 
 cd Downloads
-python3 InstagramCracker.py
+cd Ethical-Hacking-Tools-Kits
+chmod +x InstagramCraker.py
+python InstagramCracker.py
 
