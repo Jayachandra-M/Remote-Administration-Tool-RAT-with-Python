@@ -1,3 +1,12 @@
+INSTALLATION:
+
+Python 2.7.18
+Any Kind Of Host Machine
+1.Downloaded the repository via github or git eg. git clone 
+2.Install the required modules by running python -m pip install -r requirements.txt
+
+
+
 Currently this program has several features such as:
 
 Cross-platform server
