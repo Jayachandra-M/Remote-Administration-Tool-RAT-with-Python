@@ -4,3 +4,4 @@ shutil
 requests
 ctypes
 pyinstaller
+pynput
