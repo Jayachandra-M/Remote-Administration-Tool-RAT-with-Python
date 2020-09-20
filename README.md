@@ -4,7 +4,7 @@ Python 2.7.18
 
 Any Kind Of Host Machine
 
-1.Downloaded the repository via github or git eg. git clone https://github.com/Jayachandra-M/Remote-Administration-Tool-Rat.git
+1.Downloaded the repository via github or git eg. git clone https://github.com/Jayachandra-M/Ethial-Hacking-with-Python.git
 2.Install the required modules by running python -m pip install -r requirements.txt
 
 
@@ -14,9 +14,9 @@ Any Kind Of Host Machine
 USAGE:
 
 
-git clone https://github.com/Jayachandra-M/Remote-Administration-Tool-Rat.git
+git clone https://github.com/Jayachandra-M/Ethial-Hacking-with-Python.git
 
-cd Remote-Administration-Tool-Rat
+cd Ethial-Hacking-with-Python
 
 chmod +x *
 
