@@ -1,0 +1,6 @@
+base64
+mss
+shutil
+requests
+ctypes
+pyinstaller
