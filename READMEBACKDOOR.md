@@ -20,7 +20,7 @@ cd Remote-Administration-Tool-RAT-with-Python
 
 chmod +x *
 
-python -m pip install requirements.txt
+python -m pip install -r requirements.txt
 
 RUNNING TOOL
 
